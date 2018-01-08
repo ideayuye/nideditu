@@ -9,12 +9,12 @@
     "theme_color": "#ACE",
     "icons": [
         {
-            "src": "/images/logo72.png",
+            "src": "./images/logo72.png",
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-            "src": "/images/logo144.png",
+            "src": "./images/logo144.png",
             "sizes": "144x144",
             "type": "image/png"
         }
